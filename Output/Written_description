@@ -1,0 +1,3 @@
+The higher the latitude of cities, the lower the max temperature they would have. It makes sense that for cities that are far from the equator, they usually have lower temperatures. 
+High percentage of cities have exact humidity of 100%, it may result from humidity that scaled from 0-100% is not a very representitive and informative measurement of the city humidity. 
+Most cities have normal range of wind speed from 1-4 mph, which means city wind speed is not affected by the latitude, but whether they are more likely to have high wind speed geographyically or not, like Chicago. 
